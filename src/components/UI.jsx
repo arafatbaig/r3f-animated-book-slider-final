@@ -89,25 +89,25 @@ export const UI = () => {
         <div className="relative">
           <div className="bg-white/0  animate-horizontal-scroll flex items-center gap-8 w-max px-8">
             <h1 className="shrink-0 text-white text-10xl font-black ">
-              Wawa Sensei
+              Mirza Arafat
             </h1>
             <h2 className="shrink-0 text-white text-8xl italic font-light">
-              React Three Fiber
+              Dev
             </h2>
             <h2 className="shrink-0 text-white text-12xl font-bold">
               Three.js
             </h2>
             <h2 className="shrink-0 text-transparent text-12xl font-bold italic outline-text">
-              Ultimate Guide
+              Foused
             </h2>
             <h2 className="shrink-0 text-white text-9xl font-medium">
-              Tutorials
+            Best
             </h2>
             <h2 className="shrink-0 text-white text-9xl font-extralight italic">
               Learn
             </h2>
             <h2 className="shrink-0 text-white text-13xl font-bold">
-              Practice
+              Dreams
             </h2>
             <h2 className="shrink-0 text-transparent text-13xl font-bold outline-text italic">
               Creative
@@ -121,10 +121,10 @@ export const UI = () => {
               React Three Fiber
             </h2>
             <h2 className="shrink-0 text-white text-12xl font-bold">
-              Three.js
+             Dream Big
             </h2>
             <h2 className="shrink-0 text-transparent text-12xl font-bold italic outline-text">
-              Ultimate Guide
+              Books
             </h2>
             <h2 className="shrink-0 text-white text-9xl font-medium">
               Tutorials
@@ -133,7 +133,7 @@ export const UI = () => {
               Learn
             </h2>
             <h2 className="shrink-0 text-white text-13xl font-bold">
-              Practice
+              matters
             </h2>
             <h2 className="shrink-0 text-transparent text-13xl font-bold outline-text italic">
               Creative
